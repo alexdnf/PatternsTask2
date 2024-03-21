@@ -48,8 +48,8 @@ public class DataGenerator {
 
         public static RegistrationDto getUser(String status) {
             return new RegistrationDto(
-                    DataGenerator.getRandomLogin(),
-                    DataGenerator.getRandomPassword(),
+                    getRandomLogin(),
+                    getRandomPassword(),
                     status
             );
         }
