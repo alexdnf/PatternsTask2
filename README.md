@@ -1,0 +1,1 @@
+# Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/x6p4apo76o0wifsf?svg=true)](https://ci.appveyor.com/project/alexdnf/patternstask2)
